@@ -1,0 +1,32 @@
+Case Study: The Evolution of UPI Fraud in India (2024–2026)
+
+Introduction
+The Unified Payments Interface (UPI) has revolutionized India's digital economy, 
+reaching over 21 billion monthly transactions by late 2025. 
+However, this hyper-growth has been shadowed by a significant rise in digital payment fraud. 
+In FY 2024-25, over 13 lakh fraud cases were reported, with losses exceeding ₹1,000 crore, 
+highlighting a shift from technical hacking to sophisticated social engineering.
+
+The Incident: "The Refund Trap"
+In early 2026, a prevalent scam targeted users of popular e-commerce platforms. Fraudsters, posing as "Customer Support Executives," 
+contacted victims regarding a fake "pending refund." 
+
+The Tactic: Instead of asking for a PIN, the scammer sent a **UPI "Collect Request"** via a third-party app.
+The Deception: The request was cleverly titled "Click to Receive ₹5,000 Refund."
+The Outcome: Believing they were accepting money, the victim entered their UPI PIN. Because a PIN is only required to send money,
+the transaction immediately debited ₹5,000 from the victim's account.
+
+Key Fraud Drivers
+1.  Social Engineering 2.0: Scammers use leaked data to build "hyper-contextual" trust, often impersonating bank officials or using "Digital Arrest" threats.
+2.  Mule Accounts: Stolen or "rented" bank accounts are used to quickly layer and disperse stolen funds before they can be frozen.
+3.  Screen-Sharing Scams: Victims are tricked into downloading remote-access apps (like AnyDesk), allowing scammers to see OTPs and PINs in real time.
+
+Mitigation & Countermeasures
+To combat this, the NPCI and RBI introduced several 2025-26 mandates:
+P2P Collect Discontinuation: Disabling "request money" features for unknown peer-to-peer contacts.
+Beneficiary Name Display: Mandatory display of the actual bank-registered name of the recipient before payment.
+AI-Risk Scoring: Real-time monitoring that flags "micro-splitting" (breaking large thefts into small, frequent transfers).
+
+Conclusion
+As of 2026, UPI fraud is less about system vulnerabilities and more about human psychology. 
+While AI-driven detection has saved thousands of crores, the primary defense remains user awareness: never enter a PIN to receive money.

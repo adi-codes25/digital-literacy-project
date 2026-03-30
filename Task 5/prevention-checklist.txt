@@ -1,0 +1,35 @@
+UPI Safety Checklist (2026 Edition)
+
+1.  The "PIN for Payments Only" Rule
+    Always remember: You never need to enter your UPI PIN to receive money. 
+    If someone asks you to enter your PIN to "claim a refund" or "collect a prize," it is a scam.
+2.  Verify the Beneficiary Name
+    Before hitting 'Send,' check the legal name that appears on the payment screen. 
+    Scammers often use fake UPI IDs (e.g., `ref.paytm@okaxis`) to look official.
+3.  Reject Random "Collect Requests"
+    If your app pops up with a request to "Pay" or "Approve" from an unknown person, decline it immediately. 
+    These are the digital equivalent of someone reaching for your wallet.
+4.  Secure Your Lock Screen & App
+    Use biometric locks (fingerprint or face ID) for both your phone and your UPI app. 
+    This ensures that even if your phone is stolen, your bank account isn't accessible.
+5.  Scan Only Trusted QR Codes
+    Avoid scanning QR codes sent via WhatsApp or email. 
+    Only scan physical codes at verified merchant locations or those generated within trusted official apps.
+6.  Avoid Screen-Sharing During Transactions
+    Never use your UPI app while on a call using apps like AnyDesk, TeamViewer, or Zoom. 
+    Fraudsters use these to see your PIN and OTP in real-time.
+7.  Set Daily Transaction Limits
+    In your banking or UPI app settings, set a daily cap on transaction amounts (e.g., ₹25,000). 
+    This limits the potential damage if an account is ever compromised.
+8.  Update and Audit Regularly
+    Keep your UPI apps updated to the latest 2026 security patches
+    Regularly check your transaction history for small "test" debits you don't recognize.
+
+If You Are Scammed: The "Golden Hour"
+Speed is everything. 
+Reporting within the first 2 hours (the Golden Hour) significantly increases the chance of freezing the funds in the scammer's account.
+
+Call 1930: Dial the National Cybercrime Helpline immediately.
+Report Online: File a formal complaint at cybercrime.gov.in
+Notify Your Bank: Use your bank’s official app or 24/7 helpline to block your UPI ID and report the fraudulent transaction ID.
+
